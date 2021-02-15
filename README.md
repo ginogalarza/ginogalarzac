@@ -3,7 +3,7 @@
 
 <img src="https://imgur.com/PWIT8eC.png" width="50%" align="right"/>
 
-Mi nombre es **Gino Galarza**, un encantado por el desarrollo web y la programación, mi gusto desde niño por las computadoras y tecnología me llevo a descubrir este maravilloso mundo del desarrollo de software, soy autodidacta y siempre estoy en busqueda de adquirir algun conocimiento nuevo.
+Mi nombre es **Gino Galarza**, un apasionado por el desarrollo web y la programación, mi gusto desde niño por las computadoras y tecnología me llevo a descubrir este maravilloso mundo del desarrollo de software, soy autodidacta y siempre estoy en busqueda de adquirir algun conocimiento nuevo.
 
 Aspirante a convertirme en un especialista **Front-End**, vengo especializándome en tecnologías relacionadas a esta área.
 
