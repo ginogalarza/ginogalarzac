@@ -2,15 +2,17 @@
 <br>
 
 <p>
+
+<img src="https://imgur.com/PWIT8eC.png" width="50%" align="right"/>
+
 Mi nombre es **Gino Galarza** un encantado por el desarrollo web y la programación, mi gusto desde niño por las computadoras y tecnología me llevo a descubrir este maravilloso mundo del desarrollo de software, autodidacta y siempre con esas ganas de aprender algo nuevo.
 
 Aspirante a convertirme en un especialista **Front-End** vengo especializándome en tecnologías relacionadas a esta área.
 Actualmente trabajo como **Analista Programador** en una Startup Peruana llamada **Ripocc**.
 
-<img src="https://imgur.com/PWIT8eC.png" width="50%" aling="left"/>
 
 </p>
-----
+
 <br>
 
 ## Tecnologias que manejo:
@@ -28,7 +30,6 @@ Actualmente trabajo como **Analista Programador** en una Startup Peruana llamada
 ## Encuéntrame en la web 🌎:
 * [Twiter](https://twitter.com/ginogalarzac)
 * [Instagram](https://www.instagram.com/ginogalarzac/)
-
 
 <!--
 **ginogalarzac/ginogalarzac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
