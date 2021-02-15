@@ -9,6 +9,7 @@ Mi nombre es **Gino Galarza**, un encantado por el desarrollo web y la programac
 
 </p>
 
+<br>
 
 <p>
 Aspirante a convertirme en un especialista **Front-End** vengo especializándome en tecnologías relacionadas a esta área.
