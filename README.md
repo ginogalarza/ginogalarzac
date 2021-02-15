@@ -5,7 +5,7 @@
 
 Mi nombre es **Gino Galarza**, un apasionado por el desarrollo web y la programación, mi gusto desde niño por las computadoras y tecnología me llevo a descubrir este maravilloso mundo del desarrollo de software, soy autodidacta y siempre estoy en busqueda de adquirir algun conocimiento nuevo.
 
-Aspirante a convertirme en un especialista **Front-End**, vengo especializándome en tecnologías relacionadas a esta área, pero tambien manejo algunas tecnologias **Back-End**.
+Aspirante a convertirme en un especialista **Front-End**, vengo especializándome en tecnologías relacionadas a esta área, pero tambien manejo algunas en el lado **Back-End**.
 
 Actualmente trabajo como **Analista Programador** en una Startup Peruana llamada **Ripocc**.
 
