@@ -25,9 +25,6 @@ Actualmente trabajo como **Analista Programador** en una Startup Peruana llamada
     </tr>
 </table> 
  
-<br>
-
-
 ## Encuéntrame en la web 🌎:
 * [Twiter](https://twitter.com/ginogalarzac)
 * [Instagram](https://www.instagram.com/ginogalarzac/)
