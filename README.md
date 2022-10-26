@@ -9,7 +9,6 @@
 
 - 📫 Como contactarme **slipkindo@gmail.com**
 
-<h3 align="left">Conectate conmigo:</h3>
 <p align="left">
 </p>
 
